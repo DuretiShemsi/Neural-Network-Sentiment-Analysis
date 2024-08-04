@@ -10,7 +10,6 @@ This project implements a neural network to perform sentiment analysis on book r
 - [Model Architecture](#model-architecture)
 - [Experiments and Results](#experiments-and-results)
 - [Conclusion](#conclusion)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Dataset
